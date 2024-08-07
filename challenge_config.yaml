@@ -7,7 +7,7 @@ evaluation_details: templates/evaluation_details.html
 terms_and_conditions: templates/terms_and_conditions.html
 image: logo.jpg
 submission_guidelines: templates/submission_guidelines.html
-leaderboard_description: View the Real-world instance detection leaderboard here. For all metrics, higher number means better performance. We rank methods w.r.t the primary metric, i.e., AP.
+leaderboard_description: View the Real-world instance detection leaderboard here. For all metrics, higher number(%) means better performance. We rank methods w.r.t the primary metric, i.e., AP.
 evaluation_script: evaluation_script.zip
 remote_evaluation: False
 is_docker_based: False
